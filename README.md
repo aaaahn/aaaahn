@@ -1,3 +1,3 @@
 # aaaahn.github.io
 
-[![Deploy Jekyll site to Pages](https://github.com/aaaahn/aaaahn.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/aaaahn/aaaahn.github.io/actions/workflows/jekyll.yml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/aaaahn/aaaahn.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/aaaahn/aaaahn.github.io/actions/workflows/jekyll-gh-pages.yml)
