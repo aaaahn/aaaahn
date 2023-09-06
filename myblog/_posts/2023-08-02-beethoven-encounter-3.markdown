@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ratatouille Live Concert"
-date:   2023-07-08 06:49:48 +0000
+title:  "Beethoven Encounter 3"
+date:   2023-08-02 06:49:48 +0000
 categories: jekyll update
 ---
 schoenberg motives nee kind if composeibg

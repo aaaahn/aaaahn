@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ratatouille Live Concert"
-date:   2023-07-08 06:49:48 +0000
+title:  "Beethoven Encounter 1"
+date:   2023-07-14 06:49:48 +0000
 categories: jekyll update
 ---
 Early life - firs to do piano well - interesting that was able to inflen new thing, respect the 

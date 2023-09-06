@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ratatouille Live Concert"
-date:   2023-07-08 06:49:48 +0000
+title:  "Beethoven Encounter 2"
+date:   2023-07-18 06:49:48 +0000
 categories: jekyll update
 ---
 Fascinating dive into the history of quartets that spanned their life from the birth and mastery of the form under Haydn, and its development from Beethoven. It tracked not only the impact of composers on the art form, but the mark that quartets left on it, as the form graduated from its initial informal settings with the help of Schuppanzigh, whose ushered in an era of professional string quartets with the first ever subscription series of performances of Beethoven’s quartets. His prowess at the violin and dedication to Beethoven allowed for Beethoven to push the envelope with his compositions, with ever more sophisticated and difficult pieces. He was paramount to Beethoven’s ability to write for the advancement?? of humanity, contrasting traditions of its day. [mozart, everyone else writing for the time, for friends to play, ofr students, to enjoy music in smaller settings, beethoven look towards the future, consciously writing music he knew might be received poorly, but would be understood in the years to come.
